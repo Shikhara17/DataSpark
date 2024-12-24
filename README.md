@@ -1,7 +1,5 @@
 # DataSpark
 
-# DataSpark
-
 ## Introduction
 **DataSpark** is a robust data engineering project designed to handle and process large datasets with high efficiency and scalability. Using Python and Apache Spark, along with a suite of other technologies, this project aims to streamline data workflows in environments that demand high-throughput data operations.
 
